@@ -18,4 +18,4 @@ The objective of this project is to create interactive dashboards showing how CO
 ![Geo map dashboard](/screenshots/Dashboard1.png?raw=true "Geo_map_dashboard")
 
 
-
+![Bar chart dashboard](/screenshots/Dashboard2.png?raw=true "Bar_chart_dashboard")
